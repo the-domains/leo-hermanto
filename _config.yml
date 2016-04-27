@@ -1,0 +1,28 @@
+name: 'Leo Hermanto '
+favicon: null
+layout_spectrum: 0.7994817541912198
+typography_spectrum: 0.46439426532015204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09928614483214915
+  lightness: 0.032243824331089854
+  saturation: 0.3473576621618122
+  rhythmicContrast: 0.7487387852743268
+purpose: []
