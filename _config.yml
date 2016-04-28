@@ -1,7 +1,7 @@
 name: 'Leo Hermanto '
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.46439426532015204
+layout_spectrum: 0.73451
+typography_spectrum: 0.69669
 title: 'The Perspective & Journey of Life'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#d7a37c'
     - '#aa7845'
     - '#614c47'
-  brandStrength: 0.5
-  lightness: 0.032243824331089854
-  saturation: 0.3473576621618122
-  rhythmicContrast: 0.5
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
