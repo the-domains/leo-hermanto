@@ -4,8 +4,15 @@
         <description><![CDATA[The Perspective & Journey of Life]]></description>
         <link>https://thegrid.ai/leo-hermanto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 13:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 14:04:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leo-hermanto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<p>Who am I?</p>]]></description>
+            <link>https://thegrid.ai/leo-hermanto/about-me/index.html</link>
+            <guid isPermaLink="false">051b6881-3bef-4718-8a72-9198eade063b</guid>
+            <pubDate>Sun, 15 May 2016 14:04:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[oN Business]]></title>
             <description><![CDATA[<p>Do you own your Business or Your Business own You?</p>]]></description>
